@@ -1,0 +1,19 @@
+h1{
+     color:red;
+    font-size:12
+}
+
+ul{
+    color:rgb(255, 0, 119);
+}
+
+ol,
+p{
+    color:blueviolet;
+}
+.special{
+    color:purple;
+}
+
+
+
