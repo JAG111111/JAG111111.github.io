@@ -20,5 +20,11 @@ li em{
 p em{
     font-size:30px;
 }
+a:link{
+    Color:red;
+}
+a:hover{
+    color:blue;
+}
 
 
